@@ -1,5 +1,4 @@
 #include <iostream>
-#include<vector>
 using namespace std;
 
 int CST(int ss, int se, int si, int arr[], int tree[])
@@ -16,7 +15,20 @@ int CST(int ss, int se, int si, int arr[], int tree[])
 		       +CST(mid + 1, se, 2 * si + 2, arr, tree);
 
 	return tree[si];
-}	
+}
+
+int getSumRec(int qs, int qe, int ss, int se, int si, int tree[])
+{
+	if(se < qs || ss > qe)
+		return 0;
+	if(qs <= ss &&  qe >= se)
+		return tree[si];
+
+	int mid = (ss + se) / 2;
+
+	return getSumRec(qs, qe, ss, mid, 2 * si + 1, tree)
+		   + getSumRec(qs, qe, mid + 1, se, 2 * si + 2, tree);
+}
 	
 int main() {
 	int n;
@@ -30,7 +42,9 @@ int main() {
 	// int arr[] = {10, 20, 30, 40}, n= 4;
 
     int tree[4 * n];
-    cout << CST(0, n - 1, 0, arr, tree) << endl;
+    CST(0, n - 1, 0, arr, tree);
+     
+    cout << getSumRec(2, 4, 0, 3, 0, tree); 
 		
 	return 0;
 }

@@ -10,18 +10,24 @@ struct node{
 };
 void printlinkedl(node* head){
     node* temp=head;
-    while( temp->next!=nullptr){
-        cout<<temp->data<<"->";
+    while( temp!=nullptr){
+        if(temp->next==nullptr){
+            cout<<temp->data;
+        }
+        else{
+            cout<<temp->data<<"->";
+        }
+        
         temp=temp->next;
     }
 }
 int main(){
     node* head=nullptr;
     head=new node(1);
-    // head->next=node* temp1(2);
-    // head->next->next=node* temp1(2);
-    // head->next->next->next=node* temp1(2);
-    // head->next->next->next->next=node* temp1(2);
-    // head->next->next->next->next->next=node* temp1(2);
+    head->next=new node(2);
+    head->next->next=new node(3);
+    head->next->next->next=new node(4);
+    head->next->next->next->next=new node(5);
+    head->next->next->next->next->next=new node(6);
     printlinkedl(head);
 }
