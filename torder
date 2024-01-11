@@ -1,0 +1,29 @@
+[33mcommit 04ab127050b0d4e093e8c31904b3ec260f26328b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: pawan kumar paik <paikpawan18@gmail.com>
+Date:   Sat Dec 30 13:19:20 2023 +0530
+
+    Added representation of Graph
+
+[33mcommit 48baf66f76704f4fba23080002905ddb5611636a[m
+Author: pawan kumar paik <paikpawan18@gmail.com>
+Date:   Mon Dec 18 21:47:35 2023 +0530
+
+    Binary search Tree added Basic
+
+[33mcommit cf82e6a443f74ec2d7c4281889d1b94e63f24c28[m
+Author: pawan kumar paik <paikpawan18@gmail.com>
+Date:   Mon Dec 18 15:27:43 2023 +0530
+
+    segment tree and merge sort added
+
+[33mcommit 60edb10136fea2281785ff62a4ec333b93a9d842[m
+Author: pawan kumar paik <paikpawan18@gmail.com>
+Date:   Sat Dec 16 14:01:22 2023 +0530
+
+    added segment tree code
+
+[33mcommit 4b075500bd537abe595b232352a226351eb0ea6d[m
+Author: pawan kumar paik <paikpawan18@gmail.com>
+Date:   Sun Nov 19 15:30:21 2023 +0530
+
+    some Linked list code are there
