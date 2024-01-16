@@ -2,6 +2,8 @@
 using namespace std;
 
 // inorder Traversal
+// time complexity O(n)
+// if vector space complexity O(n);
 void inorder(Node* root){
     if(root==nullptr){
         return ;
