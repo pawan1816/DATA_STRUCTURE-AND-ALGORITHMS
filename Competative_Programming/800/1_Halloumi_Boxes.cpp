@@ -11,6 +11,7 @@ bool issorted(int arr[],int n){
 
 }
 int main(){
+   
     int t;
     cin>>t;
     while(t--){

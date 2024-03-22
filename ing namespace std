@@ -1,0 +1,83 @@
+[33mcommit f5d5cc56a71d3f6c522302355a933f09c74b28c0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: unknown <paikpawan18@gmail.com>
+Date:   Fri Mar 22 12:38:08 2024 +0530
+
+    created a file for the competative programming and solved [200~#include<bits/stdc++.h>
+
+[33mcommit f930edcefed56a79a973761694d683f210768aae[m
+Author: unknown <paikpawan18@gmail.com>
+Date:   Sat Mar 16 18:08:58 2024 +0530
+
+    added Virtual function in polymorphism
+
+[33mcommit e018d3606fb2a7cb2721a06cbf0a3b81a2368493[m
+Author: unknown <paikpawan18@gmail.com>
+Date:   Sat Mar 16 17:04:03 2024 +0530
+
+    Learned about polymorphism
+
+[33mcommit b2831a7753e7044ec3bef1586653c786f57dd387[m
+Author: unknown <paikpawan18@gmail.com>
+Date:   Sun Feb 11 12:16:33 2024 +0530
+
+    added blueprint mathod in DP
+
+[33mcommit a079edfb25ed077967a20009e7581ef48a586fd2[m
+Author: unknown <paikpawan18@gmail.com>
+Date:   Sat Feb 3 19:26:41 2024 +0530
+
+    added implementation of stack using array
+
+[33mcommit ea3ab52d29d38155b663fb9e1992bafc4fec1323[m
+Author: unknown <paikpawan18@gmail.com>
+Date:   Sun Jan 28 19:22:17 2024 +0530
+
+    added Cumulative Sum concept in Array file
+
+[33mcommit 0777b6f689a11d67daf8bfe208bb4f45ebcb4295[m
+Author: unknown <paikpawan18@gmail.com>
+Date:   Wed Jan 17 15:45:12 2024 +0530
+
+    added graph topological sort
+
+[33mcommit 55d1323da3553d054880809490270fd2fcdf8dce[m
+Author: unknown <paikpawan18@gmail.com>
+Date:   Wed Jan 17 00:03:13 2024 +0530
+
+    added BFS logic
+
+[33mcommit 73a3831d91e770b42fb136df6b01dd63b0cf556d[m
+Author: pawan kumar paik <paikpawan18@gmail.com>
+Date:   Thu Jan 11 07:57:01 2024 +0530
+
+    added tree traversal
+
+[33mcommit 04ab127050b0d4e093e8c31904b3ec260f26328b[m
+Author: pawan kumar paik <paikpawan18@gmail.com>
+Date:   Sat Dec 30 13:19:20 2023 +0530
+
+    Added representation of Graph
+
+[33mcommit 48baf66f76704f4fba23080002905ddb5611636a[m
+Author: pawan kumar paik <paikpawan18@gmail.com>
+Date:   Mon Dec 18 21:47:35 2023 +0530
+
+    Binary search Tree added Basic
+
+[33mcommit cf82e6a443f74ec2d7c4281889d1b94e63f24c28[m
+Author: pawan kumar paik <paikpawan18@gmail.com>
+Date:   Mon Dec 18 15:27:43 2023 +0530
+
+    segment tree and merge sort added
+
+[33mcommit 60edb10136fea2281785ff62a4ec333b93a9d842[m
+Author: pawan kumar paik <paikpawan18@gmail.com>
+Date:   Sat Dec 16 14:01:22 2023 +0530
+
+    added segment tree code
+
+[33mcommit 4b075500bd537abe595b232352a226351eb0ea6d[m
+Author: pawan kumar paik <paikpawan18@gmail.com>
+Date:   Sun Nov 19 15:30:21 2023 +0530
+
+    some Linked list code are there
