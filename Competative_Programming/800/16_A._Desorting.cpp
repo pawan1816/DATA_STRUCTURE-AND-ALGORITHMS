@@ -23,6 +23,10 @@ int main(){
         }
         if(flag){
             cout<<0<<endl;
-        }else if()
+        }else if(dfr%2==0){
+            cout<<(dfr/2)+1<<endl;
+        }else{
+            cout<<(dfr+1)/2<<endl;
+        }
     }
 }
